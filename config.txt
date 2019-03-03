@@ -12,6 +12,14 @@
 "checking":{
 "1440036202":"1.0"
 },
+"serverAd":[
+{
+"isWeb":"1",
+"url":"https://itunes.apple.com/cn/app/id1454794313?mt=8",
+"image":"http://7fvjim.com1.z0.glb.clouddn.com/new.png",
+"title":"最新版本,无广告,无闪退"
+}
+],
 "discover":[
 ]
 }
